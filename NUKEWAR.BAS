@@ -398,7 +398,7 @@
 18063 data 124,198,12,24,0,24,0,0
 19000 return
 20000 fori=33792 to 34559:reada:pokei,a:next
-20010 vic=53248:pokevic+29,0:pokevic+23,0:sid=54272
+20010 sid=54272:rem need to update this for x16
 20020 return
 20999 rem boom1
 21000 data 0,0,0
